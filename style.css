@@ -7,16 +7,16 @@
 }
 
 
-.header{
+header{
     background-color: var(--cor-do-cabeçalho);
     color: var(--cor-da-fonte);
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
-    
+
 }
 
-.main{
+main{
     background-color: var(--cor-de-fundo);
     color: #000000;
 }
